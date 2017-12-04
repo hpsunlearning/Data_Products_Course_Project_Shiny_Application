@@ -1,0 +1,12 @@
+name: testapp
+title: testAPP
+username:
+account: hpsun
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 243862
+bundleId: 1113609
+url: https://hpsun.shinyapps.io/testapp/
+when: 1512376215.00574
+asMultiple: FALSE
+asStatic: FALSE

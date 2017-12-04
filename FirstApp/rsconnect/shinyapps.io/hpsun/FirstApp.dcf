@@ -1,0 +1,12 @@
+name: FirstApp
+title: FirstApp
+username:
+account: hpsun
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 243859
+bundleId: 1113604
+url: https://hpsun.shinyapps.io/FirstApp/
+when: 1512376138.02145
+asMultiple: FALSE
+asStatic: FALSE
